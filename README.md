@@ -31,3 +31,15 @@ STELLA-2 additional capabilities: 3 axis accelerometers, gyroscopes, and magneto
 
 The STELLA-1 can be hand held, or mounted on the end of a 1/2" diameter wooden dowel to increase reach. The STELLA-2 can be mounted on a drone using rubber bands at built-in pick points, or a smartphone may be attached to the instrument to take co-aligned photos of the measurement area.
 The STELLA-Q can be assembled with double-stick tape, on a pair of craft sticks, a 30 cm ruler, or the end of a 1 m stick.
+
+
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
