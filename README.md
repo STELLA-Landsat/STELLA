@@ -21,11 +21,11 @@ Thermal Infrared Remote Surface Temperature: A beam-defined thermopile sensor me
 
 Due to the fields of view of the sensors, the diameter of the measurement area is approximately the same as the stand off distance (0.7x). At 1m distance, the sensors average the irradiance over a circular area of about 1 m in diameter. At 10 m standoff, as from a drone or tower, the area of the measurement is approximately 10 m in diameter.
 
-Humidity: +/-3 % relative humidity (1 and 2), +/-1.8 % (Q)
+Humidity: +/-3 % relative humidity (S1 and S2), +/-1.8 % (Q)
 
 Air Temperature: +/-0.3 ºC
 
-Barometric Pressure: +/- 1 hPa (1 and 2). Optional additional sensor for version Q.
+Barometric Pressure: +/- 1 hPa (S1 and S2). Optional additional sensor for version Q.
 
 STELLA-2 additional capabilities: 3 axis accelerometers, gyroscopes, and magnetometers. Bluetooth connection with Adafruit's Bluefruit Connect app for iPhone and Android.
 
