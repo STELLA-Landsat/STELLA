@@ -1,4 +1,4 @@
-<h1>STELLA: Build your own scientific instrument to investigate visible and invisible light.</h1>
+<h1>STELLA: Build your own scientific instrument to investigate visible and invisible light and now Air Quality as well!</h1>
 <br />
 STELLA stands for Science and Technology Education for Land/ Life Assessment. A STELLA instrument uses state-of-the-art light sensors to measure visible and near infrared light spectra. The Landsat satellites make similar measurements of the Earth from space. Landsat science has democratized those spectral measurements by making the data freely available to the public. STELLA helps to democratize scientific instrumentation by making it feasible for an interested person to build their own <a href="https://landsat.gsfc.nasa.gov/stella/">spectrometer</a>. <br/><br />
 
