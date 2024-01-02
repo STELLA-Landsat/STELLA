@@ -1,3 +1,5 @@
+<img src="https://landsat.gsfc.nasa.gov/wp-content/uploads/elementor/thumbs/STELLA-white-q1h8hkv9yhtnbhzz7ygsf2wdbpwsfrg4ilpltsay22.png">
+
 Welcome to the <strong>STELLA (Science and Technology Education for Land/Life Assessment) project.</strong> STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better.
 
 Landsat images are not just colorful and captivating, they are also precise spectral measurements that provide a scientific record of our planet.
