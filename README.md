@@ -1,6 +1,6 @@
 <img src="https://landsat.gsfc.nasa.gov/wp-content/uploads/elementor/thumbs/STELLA-white-q1h8hkv9yhtnbhzz7ygsf2wdbpwsfrg4ilpltsay22.png">
 
-<strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their fils below.
+<strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
 
 Welcome to the <strong>STELLA (Science and Technology Education for Land/Life Assessment) project.</strong> STELLA instruments are portable low-cost do-it-yourself (DIY) instruments that support science education, and outreach through scientific engagement, inquiry, and discovery while helping you understand Landsat better.
 
