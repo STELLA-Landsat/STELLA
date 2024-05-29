@@ -1,4 +1,4 @@
-![STELLA logo](https://landsat.gsfc.nasa.gov/wp-content/uploads/2023/01/STELLA-white.png)
+![STELLA logo](STELLA-white.png)
 
 <strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
 
