@@ -10,8 +10,6 @@ Consider building a STELLA to find out for yourself…
 
 Once assembled, the STELLA DIY spectrometers <strong>Q, 1.0, 1.1 and 2.0</strong> versions can make 12 different spectral measurements the <strong>STELLA-Q2</strong> can make 18 different measurements from violet/blue portions of the electromagnetic spectrum out to near infrared regions (beyond our range of vision). The STELLA 1.1 and 2.0 versions can also make surface temperature measurements of emitted thermal infrared energy like Landsat.
 
-With STELLA in hand, students become citizen scientists making Landsat-like spectral measurements wherever they are.
-
 STELLA instruments help students understand remote sensing technology, applications and the importance of sensor calibration, introducing them to the science of Landsat with a learn-by-doing approach.
 
 With STELLA you can see how the spectral signature (or reflectance pattern) of a drought-stressed plant compares to a healthy one; how sediment-laden water differs from clear water; or how the temperature of a lush green field contrasts with an adjacent concrete sidewalk.
