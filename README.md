@@ -18,8 +18,6 @@ With STELLA you can see how the spectral signature (or reflectance pattern) of a
 
 The <strong>STELLA-AQ</strong>, once assembled, combines carbon dioxide (CO2) and particulate matter (PM) monitoring capabilities in a user-friendly device.
 
-STELLA brings the foundational, space-based measurements of Landsat down to Earth.
-
 Find freely available build plans, instructions, and activities on the <a href="https://landsat.gsfc.nasa.gov/stella/">website</a>.
 
 <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/03/SAQ.zip">Download STELLA-AQ files</a>
