@@ -20,7 +20,7 @@ The <strong>STELLA-AQ</strong>, once assembled, combines carbon dioxide (CO2) an
 
 Find freely available build plans, instructions, and activities on the <a href="https://landsat.gsfc.nasa.gov/stella/">website</a>.
 
-<a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/03/SAQ.zip">Download STELLA-AQ files</a>
+<a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/06/STELLA-AQ_on_CP9.zip">Download STELLA-AQ files</a>
 
 <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/03/SHP-Helio-STELLA-1.zip">Download Helio-STELLA files</a>
 
