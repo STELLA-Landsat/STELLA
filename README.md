@@ -24,3 +24,5 @@ Find freely available build plans, instructions, and activities on the <a href="
 
 <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2024/03/SHP-Helio-STELLA-1.zip">Download Helio-STELLA files</a>
 
+<strong>Note:</strong> STELLA is solely an educational and outreach tool designed to help students and the community learn about Landsat and remote sensing. The performance of STELLA has not been scientifically peer-reviewed and data retrieved should be used for educational purposes only. 
+
