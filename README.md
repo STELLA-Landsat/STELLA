@@ -1,4 +1,4 @@
-![STELLA logo](STELLA-white.png width="48")
+<img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width="200px">
 
 ![STELLA_intro_slides](https://github.com/user-attachments/assets/334746f3-3656-4aef-bb76-34a7a5b3d93e)
 
