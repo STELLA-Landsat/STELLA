@@ -1,4 +1,4 @@
-![STELLA logo](STELLA-white.png)
+![STELLA logo](STELLA-white.png {width=40px})
 
 ![STELLA_intro_slides](https://github.com/user-attachments/assets/334746f3-3656-4aef-bb76-34a7a5b3d93e)
 
