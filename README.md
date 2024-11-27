@@ -15,6 +15,7 @@
   <li>Make NASA Satellite Data Understandable</li>
 </ul>
 </div>
+</div>
 ![STELLA_intro_slides](https://github.com/user-attachments/assets/334746f3-3656-4aef-bb76-34a7a5b3d93e)
 
 <strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
