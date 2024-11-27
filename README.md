@@ -1,17 +1,20 @@
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width="400px">
-
+<div>
+<div style="float: left;">
 <strong>What is STELLA?</strong>
 <ul>
   <li>Low-Cost Modular Educational Tool</li>
   <li>Gain Hands-on Experience in Engineering</li>
   <li>Encourage Curiosity Through Authentic STEM Learning</li>
 </ul>
+</div>
+<div style="float: right;">
 <strong>Why STELLA?</strong>
 <ul>
   <li>Demystify Remote Sensing Concepts</li>
   <li>Make NASA Satellite Data Understandable</li>
 </ul>
-
+</div>
 ![STELLA_intro_slides](https://github.com/user-attachments/assets/334746f3-3656-4aef-bb76-34a7a5b3d93e)
 
 <strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
