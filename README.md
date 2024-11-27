@@ -1,4 +1,4 @@
-<img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=80%>
+<img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=60%>
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA_intro_slides.jpg?raw=true">
 
 <strong>What is STELLA?</strong>
