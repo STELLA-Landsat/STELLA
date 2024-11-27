@@ -16,7 +16,7 @@
 </ul>
 </div>
 </div>
-![STELLA_intro_slides](https://github.com/user-attachments/assets/3b29531c-253b-49fe-9852-82a40cff6caa)
+<img src="https://github.com/user-attachments/assets/3b29531c-253b-49fe-9852-82a40cff6caa)>
 
 <strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
 
