@@ -1,4 +1,7 @@
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=60%>
+
+<h2>STELLA-1.2 Coming Soon!!!</h2>
+
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA_intro_slides.jpg?raw=true">
 
 <strong>What is STELLA?</strong>
