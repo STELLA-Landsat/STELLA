@@ -1,6 +1,6 @@
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=60%>
 
-<h2>STELLA-1.2 Base Module - <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2025/01/STELLA-1.2-base-module.zip">build files</a></h2>
+<h2>STELLA-1.2 Base Module - <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2025/01/STELLA-1.2-base-module.zip">build files</a></h2> and <a href="https://youtu.be/dsOMjYMeKgA?si=xqByvyXEg6qUfxom">build video</a>
 
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA_intro_slides.jpg?raw=true">
 
