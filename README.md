@@ -1,6 +1,6 @@
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=60%>
 
-<h2>STELLA-1.2 Base Module and Air Analyzer, Remote Sensing and Expansion module - <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2025/02/STELLA-1.2.zip">build files</a>, <a href="https://youtu.be/dsOMjYMeKgA?si=xqByvyXEg6qUfxom">base module build video</a> <a href="https://www.youtube.com/watch?v=OO1T3rIPzPM&t=0s">remote sensing module build video</a>, <a href="https://www.youtube.com/watch?v=vWeI4CHRsg4">air analyzer module build video</a> and <a href="https://www.youtube.com/watch?v=o8yzRwNMTWE&t=0s">expansion module build video</a></h2>
+<h2>STELLA-1.2 Base Module and Air Analyzer, Remote Sensing and Expansion module - <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2025/02/STELLA-1.2.zip"> build files</a>, <a href="https://youtu.be/dsOMjYMeKgA?si=xqByvyXEg6qUfxom">base module build video</a>,  <a href="https://www.youtube.com/watch?v=OO1T3rIPzPM&t=0s">remote sensing module build video</a>, <a href="https://www.youtube.com/watch?v=vWeI4CHRsg4">air analyzer module build video</a> and <a href="https://www.youtube.com/watch?v=o8yzRwNMTWE&t=0s">expansion module build video</a></h2>
 
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA_intro_slides.jpg?raw=true">
 
