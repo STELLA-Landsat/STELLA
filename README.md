@@ -1,30 +1,8 @@
 <img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA-white.png?raw=true"  width=60%>
 
-<h2>STELLA-1.2 Base Module and Air Analyzer, Remote Sensing and Expansion module - <a href="https://landsat.gsfc.nasa.gov/wp-content/uploads/2025/02/STELLA-1.2.zip"> build files</a>, <a href="https://youtu.be/dsOMjYMeKgA?si=xqByvyXEg6qUfxom">base module build video</a>,  <a href="https://www.youtube.com/watch?v=OO1T3rIPzPM&t=0s">remote sensing module build video</a>, <a href="https://www.youtube.com/watch?v=vWeI4CHRsg4">air analyzer module build video</a> and <a href="https://www.youtube.com/watch?v=o8yzRwNMTWE&t=0s">expansion module build video</a></h2>
+<h2>Announcing Official Launch of <a href="https://science.gsfc.nasa.gov/stella/instruments/stella-1-2/">STELLA-1.2 Base Module</a> and <a href="https://science.gsfc.nasa.gov/stella/instruments/stella-1-2/stella-rs-module/">Remote Sensing module</a></h2> 
 
-<img src="https://github.com/STELLA-Landsat/STELLA/blob/main/STELLA_intro_slides.jpg?raw=true">
+<p>STELLA (Science and Technology Education for Land/Life Assessment) is a force multiplier for NASA Missions and programs–it amplifies their impact by breaking down barriers that make satellite remote sensing seem inaccessible, transforming mission data from abstract numbers into tangible participatory science that develops the technical workforce Earth observation systems depend upon while creating thousands of mission-literate professionals who understand why NASA investments matter.</p>
 
-<strong>What is STELLA?</strong>
-<ul>
-  <li>Low-Cost Modular Educational Tool</li>
-  <li>Gain Hands-on Experience in Engineering</li>
-  <li>Encourage Curiosity Through Authentic STEM Learning</li>
-</ul>
-<strong>Why STELLA?</strong>
-<ul>
-  <li>Demystify Remote Sensing Concepts</li>
-  <li>Make NASA Satellite Data Understandable</li>
-</ul>
-
-<strong>Note:</strong> Main STELLA website is undergoing some changes and the Helio and AQ STELLAs have been temporarialy taken down. You can download their files below.
-
-The <strong>STELLA-AQ</strong>, once assembled, combines carbon dioxide (CO2) and particulate matter (PM) monitoring capabilities in a user-friendly device.
-
-Find freely available build plans, instructions, and activities on the <a href="https://science.gsfc.nasa.gov/stella/">website</a>.
-
-<a href="https://science.gsfc.nasa.gov/stella/wp-content/uploads/2025/06/STELLA-AQ.zip">Download STELLA-AQ files</a>
-
-<a href="https://science.gsfc.nasa.gov/stella/wp-content/uploads/2025/06/Helio-STELLA.zip">Download Helio-STELLA files</a>
-
-<strong>Note:</strong> STELLA is solely an educational and outreach tool designed to help students and the community learn about Landsat and remote sensing. The performance of STELLA has not been scientifically peer-reviewed and data retrieved should be used for educational purposes only. 
+<strong>Note:</strong> <i>The high‐precision high‐accuracy instruments in the NASA Earth Observing fleet cannot be duplicated with inexpensive, off‐the‐shelf components.</i>
 
