@@ -5,7 +5,7 @@
 <p>STELLA (Science and Technology Education for Land/Life Assessment) is a force multiplier for NASA Missions and programs–it amplifies their impact by breaking down barriers that make satellite remote sensing seem inaccessible, transforming mission data from abstract numbers into tangible participatory science that develops the technical workforce Earth observation systems depend upon while creating thousands of mission-literate professionals who understand why NASA investments matter.</p>
 <h3>STELLA-1.2 Base Module</h3>
 
-<img width="500" alt="STELLA-1_2_snap" src="https://github.com/user-attachments/assets/015168c0-53c2-41b3-8ae1-c5319bfc4097" />
+<img width="700" alt="STELLA-1_2_snap" src="https://github.com/user-attachments/assets/015168c0-53c2-41b3-8ae1-c5319bfc4097" />
 
 <h3>STELLA-RS (Remote Sensing)</h3>
 <img width="761" height="872" alt="STELLA_12_RS_overview" src="https://github.com/user-attachments/assets/ebbd7b27-1b75-4d8b-b0e9-9387c0a3c13a" />
